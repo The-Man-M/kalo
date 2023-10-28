@@ -1,0 +1,18 @@
+C:\Users\INTEL PC\Documents\Tarea visual estudio\Tarea Programacion\obj\Debug\net6.0\Tarea Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INTEL PC\Documents\Tarea visual estudio\Tarea Programacion\obj\Debug\net6.0\Tarea Programacion.AssemblyInfoInputs.cache
+C:\Users\INTEL PC\Documents\Tarea visual estudio\Tarea Programacion\obj\Debug\net6.0\Tarea Programacion.AssemblyInfo.cs
+C:\Users\INTEL PC\Documents\Tarea visual estudio\Tarea Programacion\obj\Debug\net6.0\Tarea Programacion.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\Downloads\Tarea Programacion\Tarea Programacion\obj\Debug\net6.0\Tarea Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Carlo\Downloads\Tarea Programacion\Tarea Programacion\obj\Debug\net6.0\Tarea Programacion.AssemblyInfoInputs.cache
+C:\Users\Carlo\Downloads\Tarea Programacion\Tarea Programacion\obj\Debug\net6.0\Tarea Programacion.AssemblyInfo.cs
+C:\Users\Carlo\Downloads\Tarea Programacion\Tarea Programacion\obj\Debug\net6.0\Tarea Programacion.csproj.CoreCompileInputs.cache
+C:\Users\Carlo\Downloads\Tarea Programacion\Tarea Programacion\bin\Debug\net6.0\Tarea Programacion.exe
+C:\Users\Carlo\Downloads\Tarea Programacion\Tarea Programacion\bin\Debug\net6.0\Tarea Programacion.deps.json
+C:\Users\Carlo\Downloads\Tarea Programacion\Tarea Programacion\bin\Debug\net6.0\Tarea Programacion.runtimeconfig.json
+C:\Users\Carlo\Downloads\Tarea Programacion\Tarea Programacion\bin\Debug\net6.0\Tarea Programacion.dll
+C:\Users\Carlo\Downloads\Tarea Programacion\Tarea Programacion\bin\Debug\net6.0\Tarea Programacion.pdb
+C:\Users\Carlo\Downloads\Tarea Programacion\Tarea Programacion\obj\Debug\net6.0\Tarea Programacion.dll
+C:\Users\Carlo\Downloads\Tarea Programacion\Tarea Programacion\obj\Debug\net6.0\refint\Tarea Programacion.dll
+C:\Users\Carlo\Downloads\Tarea Programacion\Tarea Programacion\obj\Debug\net6.0\Tarea Programacion.pdb
+C:\Users\Carlo\Downloads\Tarea Programacion\Tarea Programacion\obj\Debug\net6.0\Tarea Programacion.genruntimeconfig.cache
+C:\Users\Carlo\Downloads\Tarea Programacion\Tarea Programacion\obj\Debug\net6.0\ref\Tarea Programacion.dll
